@@ -1,0 +1,42 @@
+XD++ (the best language on the earth problaply)
+
+Print text (not like a printer)
+
+print("hello world");
+
+//Simple LOOP
+
+loop(1, 5, () => {
+    print("Hello from loop!");
+});
+
+//Delay (2000 is 2seconds)
+
+delay(2000); 
+print("Hello after delay!");
+
+//Colourful text 
+
+
+print("<span class='red-text'>This is red text</span>");
+
+print("<span class='green-text'>This is green text</span>");
+
+print("<span class='blue-text'>This is blue text</span>");
+
+// Random Number Generator Example
+
+let randomNumber = random(1, 100);
+print("Random Number: " + randomNumber);
+
+// Image Code Example
+image("path/to/your/image.png");
+
+// Video Code Example
+video("path/to/your/video.mp4");
+
+
+
+
+
+
